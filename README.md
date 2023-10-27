@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/bilal-abouzid/), [imbilalabouzid@gmail.com](mailto:imbilalabouzid@gmail.com)**
 
-- 📄 Know about my experiences [My Resume](https://bilal-auz-dev.netlify.app/assets/resume/Bilal-Abouzid-Backend-Engineer-Resume-2023.pdf)
+- 📄 Know about my experiences [My Resume](https://bilal-auz-dev.netlify.app/assets/resume/Bilal-Abouzid-Resume-2023.pdf)
 
 <h3 align="left">Connect with me: </h3>
   
