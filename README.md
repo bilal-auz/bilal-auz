@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilal-auz&label=Profile%20views&color=0e75b6&style=flat" alt="bilal-auz" /> </p>
 
-- 🔭 I’m currently working on [DaSummary](https://github.com/bilal-auz/daSummary)
+- 🔭 I’m currently working on [Statify](https://github.com/bilal-auz/statify)
 
 - 🌱 I’m currently learning **Typescript, GraphQL, AZURE**
 
