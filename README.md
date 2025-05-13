@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilal-auz&label=Profile%20views&color=0e75b6&style=flat" alt="bilal-auz" /> </p>
 
-- 🔭 I’m currently working on [video-call-app](https://github.com/bilal-auz/video-call-app)
+- 🌱 I’m currently learning ***AZURE, DevOps***
 
-- 🌱 I’m currently learning **Typescript, GraphQL, AZURE**
+- 🎯 My Goals are ✅~~AZ-900~~ -> ⏳AZ-204 -> 👀AZ-400
 
 - ⚡ My favorite Tech Stack is **MERN**
 
