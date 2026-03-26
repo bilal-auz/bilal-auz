@@ -14,7 +14,7 @@
 
 - ⚡ My favorite Tech Stack is **MERN**
 
-- 👨‍💻 All of my projects are available at [https://bilal-auz-dev.netlify.app/](https://bilal-auz-dev.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://bilalabouzid.com](https://bilalabouzid.com)
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/bilal-abouzid/), [imbilalabouzid@gmail.com](mailto:imbilalabouzid@gmail.com)**
 
